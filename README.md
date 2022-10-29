@@ -8,4 +8,6 @@ For coming version i'll add another views.
 
 > This project is developed using laravel and tailwind css
 
-
+<img src="/assetsReadme/laravel.png" alt="drawing" width="200"/>
++ 
+<img src="/assetsReadme/tailwind.png" alt="drawing" width="200"/>
